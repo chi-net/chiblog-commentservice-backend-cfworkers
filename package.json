@@ -1,0 +1,11 @@
+{
+  "name": "chiblog-comment-service-backend",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.0.23"
+  },
+  "scripts": {
+    "start": "wrangler dev src/index.js"
+  },
+  "private": true
+}

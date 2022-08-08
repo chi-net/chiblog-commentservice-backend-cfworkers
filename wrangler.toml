@@ -1,0 +1,6 @@
+name = "chiblog-comment-service-backend"
+compatibility_date = "2022-08-06"
+
+kv_namespaces = [
+  { binding = "comments", id = "56cd0a1dff7d4aa6a3cf9a0b12cef172", preview_id = "01267233609d48858de14db7709aba71" }
+]
